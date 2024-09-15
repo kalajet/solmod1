@@ -17,6 +17,5 @@ https://www.quicknode.com/guides/solana-development/nfts/how-to-deploy-an-nft-co
 yarn start/yarn dev
 ```
 
-## Authors
-sanjit pandit
+
 
